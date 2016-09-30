@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      a title
+    </title>
+  </head>
+  <body>
+    <form action="/auth">
+      <input type="text" name="username"> username
+      <br><br>
+      <input type="text" name="password"> password
+      <br><br>
+      <input type="submit" value="submit">
+    </form>
+  </body>
+</html>
